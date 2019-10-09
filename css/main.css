@@ -7,3 +7,16 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  background-color: #79756f;
+  border-top: 5px solid #595652;
+  border-bottom: 5px solid #595652;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+  color: #fff;
+  font-weight: normal;
+}
